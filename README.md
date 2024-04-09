@@ -2,6 +2,7 @@
 digispark repo for teaching students the risc of usb ports
 Tutorials can be found at:
 http://digistump.com/wiki/digispark/tutorials/connecting
+https://github.com/digistump/arduino-boards-index/tree/master
 
 ### LEGAL DISCLAIMER
 This Repository contains materials that can be potentially damaging or dangerous.
